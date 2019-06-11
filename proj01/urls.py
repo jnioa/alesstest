@@ -6,6 +6,8 @@ urlpatterns = [
     path('', include('home.urls')),
     path('alesstest/', include('alesstest.urls')),
     path('hard/', include('hard.urls')),
+    path('taiki/', include('taiki.urls')),
+    path('taiki2/', include('taiki2.urls')),
     path('admin/', admin.site.urls),
 ]
 

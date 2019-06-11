@@ -37,6 +37,8 @@ INSTALLED_APPS = [
     'home',
     'alesstest',
     'hard',
+    'taiki',
+    'taiki2',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
